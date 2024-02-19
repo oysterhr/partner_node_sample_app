@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel="stylesheet" href="/stylesheets/style.css" />
+  </head>
+
+  <body>
+    <div>
+      <% if (hasClient === null) { %>
+      <a href="<%= authorizationUrl %>">Authorize Oyster Developer App</a>
+      <% } else { %>
+      <a href="/auth/refresh_token">Refresh Token</a>
+      <br />
+      <a href="/partner/session">Generate Session Token</a>
+      <% } %>
+    </div>
+  </body>
+</html>
