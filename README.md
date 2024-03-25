@@ -4,7 +4,7 @@ This is a Node.js sample application to demonstrate how to work with Oyster Embe
 
 ## Prerequisites
 
-Please follow the detailed documentation: [https://docs.oysterhr.com](https://docs.oysterhr.com) for the required **Initial Setup**.
+Please follow the detailed documentation: [Getting Started with Embedded Partners](https://docs.oysterhr.com/v0.1/docs/getting-started-with-embedded-partners) for the required **Initial Setup**.
 
 ## Cloning the Repository
 
