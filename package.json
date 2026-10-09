@@ -19,5 +19,8 @@
   },
   "devDependencies": {
     "sequelize-cli": "^6.6.2"
+  },
+  "overrides": {
+    "lodash@4.17.21": "https://npm.aikido.io/99a6bf34680c26437283/lodash@4.17.21-aikido.3"
   }
 }
